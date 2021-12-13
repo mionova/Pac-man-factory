@@ -15,6 +15,7 @@ PacMen will open and close its mouth while moving around as part of a future imp
 
 ## License information
 
-[MIT License](https://github.com/mionova/Pac-man-factory/blob/main/LICENSE)
+[MIT License](https://github.com/mionova/Pac-man-factory/blob/main/LICENSE) 
+&nbsp; 
 
 <img src="https://github.com/mionova/Pac-man-factory/blob/main/demo/img-pacman.png">
