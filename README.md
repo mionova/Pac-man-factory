@@ -1,9 +1,20 @@
-# pacmen
-Factory for making pacmen
-You are given a starter.html code.
-When button "make one" is pressed you need to complete the code 
-to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
-You also need to make each pacman bounce off any wall it hits. 
-Start by getting at least one pacman positioned and viewable. 
+# PacMen factory
 
-<img src="PacMan1.png">
+Create PacMen with the click of a button and watch them move within the browser window at their own pace. 
+&nbsp; 
+
+## How to run
+
+Add as many PacMen as you want by clicking on the "Add PacMan" button. Next, click on the "Start Game" button to watch them bounce around. You can add more PacMen at any time. Refresh the browser window to start over.
+&nbsp; 
+
+## Roadmap of future improvements
+
+PacMen will open and close its mouth while moving around as part of a future improvements plan.  
+&nbsp; 
+
+## License information
+
+[MIT License](https://github.com/mionova/Pac-man-factory/blob/main/LICENSE)
+
+<img src="demo/img-pacman">
