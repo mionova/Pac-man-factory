@@ -11,11 +11,11 @@ Add as many PacMen as you want by clicking on the "Add PacMan" button. Next, cli
 ## Roadmap of future improvements
 
 PacMen will open and close its mouth while moving around as part of a future improvements plan.  
-&nbsp; 
 
 ## License information
 
 [MIT License](https://github.com/mionova/Pac-man-factory/blob/main/LICENSE) 
+&nbsp; 
 &nbsp; 
 
 <img src="https://github.com/mionova/Pac-man-factory/blob/main/demo/img-pacman.png">
